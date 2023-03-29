@@ -1,5 +1,4 @@
-
-     <h1 align="center">
+<h1 align="center">
         <img heigt="150" width="60"  src="https://simpleicons.org/icons/androidstudio.svg">
     </h1>
     <h1 align = "center"> DICE ROLLER  </h1>
@@ -19,6 +18,3 @@
     <tr>
         <h3 align="center"><a href="https://github.com/erikasntn"><img style="border-radius: 50%;" src="img/imagemerika.png" width="100px;" alt=""/><br /><sub><b>Erika Santana</b></sub></a><br />👾</a></h3>
         <h3 align="center"><a href="https://github.com/geeg-nas"><img style="border-radius: 50%;" src="img/imagemgeo.png" width="100px;" alt=""/><br /><sub><b>Geovana Nascimento</b></sub></a><br />👾</a></h3>
-
-</body>
-</html>
